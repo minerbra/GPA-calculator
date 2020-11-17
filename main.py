@@ -1,7 +1,6 @@
 """
 
 @Author: Brady Miner
-@Version: CS 1030 Project #2
 
 GPA Calculator: Will calculate n number of grades and return the average GPA.
 
